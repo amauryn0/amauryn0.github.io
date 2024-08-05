@@ -44,7 +44,9 @@ li {
 .lista :hover { 
     transition: -1;
     transform: scale(1.1);
-    background:  #5cb8ff;
+    color:   #5cb8ff;
+    
+    
     
    
 }
